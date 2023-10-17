@@ -238,7 +238,7 @@ fig_question2.update_layout(
 fig_question2.add_annotation(
     dict(font=dict(size=12),
     x=0,
-    y=-0.38,
+    y=-0.23,
     showarrow=False,
     text="Quelle: UNHCR",
     xanchor='left',
@@ -304,7 +304,7 @@ fig_question4.update_layout(
 fig_question4.add_annotation(
     dict(font=dict(size=12),
     x=0,
-    y=-0.17,
+    y=-0.23,
     showarrow=False,
     text="Quelle: UNHCR",
     xanchor='left',
